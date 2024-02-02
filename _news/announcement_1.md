@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-1-23
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+One paper [EAR](https://sites.google.com/view/emergent-action-representation/) is accepted by ICLR 2023. Congratulations to all the authors!

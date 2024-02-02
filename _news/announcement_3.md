@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-1-16
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+One paper [DrM](https://drm-rl.github.io/) is accepted by ICLR 2024 as a **spotlight** paper. Congratulations to all the authors!
