@@ -21,4 +21,4 @@ Currently, I am a fourth-year undergraduate student at [Department of Electronic
 
 My research topic lies in the interdisciplinary topics of **reinforcement learning**, and **robotics**. My dream is to **empower robots with the capacity to act in open world environments**. 
 
-I am currently working on leveraging LLM and VLM to boost the generalization ability of robots.
+I am currently working on leveraging LLM and VLM to boost the performance and generalization ability of robots.
