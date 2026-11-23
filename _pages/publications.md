@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+<!-- Publications are generated from _bibliography/papers.bib. -->
 <div class="publications">
 
 {% bibliography %}
